@@ -1,0 +1,5 @@
+{"respondent": "prng", "n": 20, "temperature": 0.0, "prompt_id": "p2", "sample_idx": 4, "prompt": "Choose a number from 1 to 20.", "seed": null, "text": "8", "value": 8, "status": "ok", "latency_s": 0.0, "ts": 1791964966.9532561}
+{"respondent": "prng", "n": 20, "temperature": 0.0, "prompt_id": "p2", "sample_idx": 3, "prompt": "Choose a number from 1 to 20.", "seed": null, "text": "3", "value": 3, "status": "ok", "latency_s": 0.0, "ts": 1791964966.954629}
+{"respondent": "prng", "n": 20, "temperature": 0.0, "prompt_id": "p2", "sample_idx": 2, "prompt": "Choose a number from 1 to 20.", "seed": null, "text": "6", "value": 6, "status": "ok", "latency_s": 0.0, "ts": 1791964966.9558046}
+{"respondent": "prng", "n": 20, "temperature": 0.0, "prompt_id": "p2", "sample_idx": 1, "prompt": "Choose a number from 1 to 20.", "seed": null, "text": "7", "value": 7, "status": "ok", "latency_s": 0.0, "ts": 1791964966.956991}
+{"respondent": "prng", "n": 20, "temperature": 0.0, "prompt_id": "p2", "sample_idx": 0, "prompt": "Choose a number from 1 to 20.", "seed": null, "text": "10", "value": 10, "status": "ok", "latency_s": 0.0, "ts": 1791964966.958525}

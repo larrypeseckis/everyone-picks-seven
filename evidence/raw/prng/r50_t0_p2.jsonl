@@ -1,0 +1,5 @@
+{"respondent": "prng", "n": 50, "temperature": 0.0, "prompt_id": "p2", "sample_idx": 0, "prompt": "Choose a number from 1 to 50.", "seed": null, "text": "35", "value": 35, "status": "ok", "latency_s": 0.0, "ts": 1791964967.4470212}
+{"respondent": "prng", "n": 50, "temperature": 0.0, "prompt_id": "p2", "sample_idx": 1, "prompt": "Choose a number from 1 to 50.", "seed": null, "text": "44", "value": 44, "status": "ok", "latency_s": 0.0, "ts": 1791964967.4472804}
+{"respondent": "prng", "n": 50, "temperature": 0.0, "prompt_id": "p2", "sample_idx": 2, "prompt": "Choose a number from 1 to 50.", "seed": null, "text": "15", "value": 15, "status": "ok", "latency_s": 0.0, "ts": 1791964967.447465}
+{"respondent": "prng", "n": 50, "temperature": 0.0, "prompt_id": "p2", "sample_idx": 3, "prompt": "Choose a number from 1 to 50.", "seed": null, "text": "25", "value": 25, "status": "ok", "latency_s": 0.0, "ts": 1791964967.4476244}
+{"respondent": "prng", "n": 50, "temperature": 0.0, "prompt_id": "p2", "sample_idx": 4, "prompt": "Choose a number from 1 to 50.", "seed": null, "text": "24", "value": 24, "status": "ok", "latency_s": 0.0, "ts": 1791964967.4478428}
