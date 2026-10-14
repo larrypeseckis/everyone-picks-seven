@@ -1,0 +1,12 @@
+{
+  "frozen_at": "2026-10-13T22:18:22-0600",
+  "sha256": {
+    "manifest.json": "c8ff6452a455a6b882a1db0e9f836f7c5beb8ca42bce373d88976a2e449ff9c3",
+    "harness/parse.py": "bc839a5a30f01878b1c59fda265cea18da362c283714782c56065685f36f85af",
+    "harness/metrics.py": "9e9bb688e7247a861e10554f8824dc7e0f352cf5074c2b9a22df979a10d7ac4d",
+    "harness/null_model.py": "6eb0c0e032e66bec493604f83dfd0a777ad02b41cfe2557510006ec421323b1e",
+    "harness/integrity.py": "84a82c65c7e280654d7a646239573d3009a73d42e25232b9288824475c15708a",
+    "harness/probe.py": "4e4bcb9c6c43873b8371635e0a8fc72bb9a276d0ea4052a69cbeb4078adf3e3e",
+    "harness/controller.py": "e77d60ea47f3bd745bc05818c9b5e24979efdf7e666a4665cf10bde63428c0a7"
+  }
+}
