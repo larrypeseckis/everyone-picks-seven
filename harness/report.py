@@ -61,10 +61,11 @@ def entropy_curves(res, manifest, path):
         ax.set_ylim(0, 1.05)
         ax.grid(alpha=0.3)
     np.atleast_1d(axes)[0].set_ylabel("normalized entropy (Miller-Madow)")
-    np.atleast_1d(axes)[-1].legend(fontsize=7, loc="lower right")
+    handles, labels = np.atleast_1d(axes)[-1].get_legend_handles_labels()
+    fig.legend(handles, labels, fontsize=8, loc="center left", bbox_to_anchor=(1.0, 0.5))
     fig.suptitle("Within-model collapse vs temperature (1 = uniform)")
     fig.tight_layout()
-    fig.savefig(path, dpi=130)
+    fig.savefig(path, dpi=130, bbox_inches="tight")
     plt.close(fig)
 
 
